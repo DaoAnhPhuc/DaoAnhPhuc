@@ -1,5 +1,1 @@
-:wink: Hi guys, my name is **Dao Anh Phuc**
-Major: Computer science
-University: HCMUT 
-Hobbies: workout, reading books, listening to music
-Currently i'm still single :(
+:wave: Hi guys, my name is **Dao Anh Phuc**. I'm a student from Ho Chi Minh City university of techonology (HCMUT), :man_technologist: major in computer science.
